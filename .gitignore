@@ -1,2 +1,2 @@
-*test*
-_tools_*
+*.out
+.vscode
