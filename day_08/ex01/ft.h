@@ -23,5 +23,6 @@ int				ft_strcmp(char *s1, char *s2);
 unsigned int	ft_strlen(char *str);
 char 			*ft_strcat(char *dest, char *src);
 char			*itoa(int i, char b[]);
+char			**ft_split(char *str, char *charset);
 
 #endif
